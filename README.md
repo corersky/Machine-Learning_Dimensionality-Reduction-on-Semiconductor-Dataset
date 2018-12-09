@@ -5,7 +5,7 @@
 In this project, a semiconductor manufacturing dataset has been studied and analyzed. 
 Modern semiconductor manufacturing is a complex and evolved process. Semiconductor wafers undergo various processing tools where their electrical and physical characteristics are altered. At each stage, vast number of signals are collected and analyzed. However, not all signals are equally valuable. The information obtained from these collected signals contain useful information as well as noise. Thus, dimensionality reduction techniques such as feature selection and feature extraction can be applied to obtain most relevant features. This project is aimed at exploring and comparing the following techniques:
 
-####Feature Selection Techniques
+#### Feature Selection Techniques
 1. Random Forest Classifier
 1. Extra Trees Classifier
 1. Low Variance
